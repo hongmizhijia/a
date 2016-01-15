@@ -1,0 +1,12 @@
+{
+  "name": "hongmizhijia/a",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/hongmizhijia/b"
+    }
+  ],
+  "require": {
+    "hongmizhijia/b": "dev-master"
+  }
+}
