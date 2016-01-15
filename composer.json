@@ -4,6 +4,16 @@
     {
       "type": "vcs",
       "url": "https://github.com/hongmizhijia/b"
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "hongmizhijia/b",
+        "source": {
+          "url": "https://github.com/hongmizhijia/b",
+          "type": "git"
+        }
+      }
     }
   ],
   "require": {
