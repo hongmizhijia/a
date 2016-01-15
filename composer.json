@@ -2,16 +2,14 @@
   "name": "hongmizhijia/a",
   "repositories": [
     {
-      "type": "vcs",
-      "url": "https://github.com/hongmizhijia/b"
-    },
-    {
       "type": "package",
       "package": {
         "name": "hongmizhijia/b",
+        "version": "dev-master",
         "source": {
           "url": "https://github.com/hongmizhijia/b",
-          "type": "git"
+          "type": "git",
+          "reference": "tags/Smarty_3_1_7/distribution/"
         }
       }
     }
