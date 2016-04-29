@@ -1,7 +1,7 @@
 {
-  "name": "phpdocumentor/template-a",
+  "name": "phpdocumentor1/template-a",
   "type":"phpdocumentor-template",
   "require": {
-    "phpdocumentor/template-installer-plugin": "dev-master"
+    "phpdocumentor/template-installer-plugin": "*"
   }
 }
