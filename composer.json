@@ -1,20 +1,7 @@
 {
-  "name": "hongmizhijia/a",
-  "repositories": [
-    {
-      "type": "package",
-      "package": {
-        "name": "hongmizhijia/b",
-        "version": "dev-master",
-        "source": {
-          "url": "https://github.com/hongmizhijia/b",
-          "type": "git",
-          "reference": "tags/Smarty_3_1_7/distribution/"
-        }
-      }
-    }
-  ],
+  "name": "phpdocumentor/template-a",
+  "type":"phpdocumentor-template",
   "require": {
-    "hongmizhijia/b": "dev-master"
+    "phpdocumentor/template-installer-plugin": "dev-master"
   }
 }
