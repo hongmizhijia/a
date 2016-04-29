@@ -3,5 +3,15 @@
   "type":"phpdocumentor-template",
   "require": {
     "phpdocumentor1/template-installer-plugin": "dev-master"
-  }
+  },
+  "repositories":[
+    {
+      "type": "git",
+      "url": "https://github.com/hongmizhijia/a.git"
+    },
+    {
+      "type": "git",
+      "url": "https://github.com/hongmizhijia/kang.git"
+    }
+  ]
 }
