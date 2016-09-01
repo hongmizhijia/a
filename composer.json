@@ -1,17 +1,12 @@
 {
-  "name": "phpdocumentor1/template-a",
-  "type":"phpdocumentor-template",
+  "name": "hongmizhijia/a",
   "require": {
-    "phpdocumentor1/template-installer-plugin": "dev-master"
+    "hongmizhijia/hello": "dev-master"
   },
   "repositories":[
     {
       "type": "git",
-      "url": "https://github.com/hongmizhijia/a.git"
-    },
-    {
-      "type": "git",
-      "url": "https://github.com/hongmizhijia/kang.git"
+      "url": "https://github.com/hongmizhijia/hello.git"
     }
   ]
 }
