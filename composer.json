@@ -1,10 +1,4 @@
 {
-  "name": "hongmizhijia/a",
-  
-    "extra": {
-        "installer-paths": {
-            "a/{$name}": ["vendor/package"]
-        }
-    }
+  "name": "hongmizhijia/a"
 
 }
