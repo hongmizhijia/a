@@ -1,3 +1,10 @@
 {
-  "name": "hongmizhijia/a"
+  "name": "hongmizhijia/a",
+  
+    "extra": {
+        "installer-paths": {
+            "sites/example.com/modules/{$name}": ["vendor/package"]
+        }
+    }
+
 }
