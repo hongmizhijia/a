@@ -3,7 +3,7 @@
   
     "extra": {
         "installer-paths": {
-            "sites/example.com/modules/{$name}": ["vendor/package"]
+            "a/{$name}": ["vendor/package"]
         }
     }
 
