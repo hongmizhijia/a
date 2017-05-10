@@ -1,14 +1,5 @@
 {
   "name": "hongmizhijia/a",
-  "repositories":[
-   {   
-            "packagist": false
-        }, 
-       {
-        "type": "git",
-        "url": "https://github.com/hongmizhijia/hello.git"
-      }
-  ],
   "require": {
         "hongmizhijia/hello": "dev-master"
     }
