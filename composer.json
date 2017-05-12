@@ -1,8 +1,4 @@
 {
-  "name": "hongmizhijia/a",
-  "require": {
-        "hongmizhijia/hello": "dev-master"
-    }
-
+  "name": "hongmizhijia/a"
 
 }
